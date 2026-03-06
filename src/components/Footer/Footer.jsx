@@ -10,6 +10,7 @@ function Footer() {
         </div>
         <p>Mission Uchcha Madhyamik</p>
         <p>This site is under devolopement</p>
+        <p>This site is designed and devoloped by <a style={{color:"#adadad"}} href="https://creative-studio-web.vercel.app/">Creative Studio</a> </p>
         <p>All Books are Copyrighted don't misuse it</p>
     <div className='social'>
         <a href="https://www.youtube.com/@MissionMadhyamik100"><img src={assets.youtube} alt="Youtube" /></a>
